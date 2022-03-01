@@ -25,3 +25,21 @@ body, a:link, a:visited, a:active{
   border-radius:10px;
   position:absolute;
 }
+/* .blinker{
+  border:10px solid red;
+  border-radius:10px;
+  position:absolute;
+}
+.jumper{
+  height:100px;
+  width: 100px;
+  border:10px solid red;
+  border-radius:10px;
+  position:absolute;
+}
+.spinner{
+  height: 100px;
+  width: 75px;
+  border-radius:10px;
+  position:absolute;
+} */

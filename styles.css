@@ -3,11 +3,11 @@ body, html{
 }
 body{
   margin: 0px;
-  background-color:#444;
+  background-image: url('Images/backgroundimg.jpg');
   font-size: 18px;
 }
 body, a:link, a:visited, a:active{
-  color: lightblue;
+  color: rgb(203, 230, 105);
 }
 .title, .addDancerButton{
   padding:5px 12px;
@@ -15,31 +15,25 @@ body, a:link, a:visited, a:active{
 }
 .topbar{
   height:32px;
-  background-color: #555;
+  background-color: rgb(5, 18, 206);
 }
 .title{
-  background-color: #777;
+  background-color: rgb(214, 9, 9);
 }
 .dancer{
-  border:10px solid red;
-  border-radius:10px;
-  position:absolute;
-}
-/* .blinker{
-  border:10px solid red;
-  border-radius:10px;
-  position:absolute;
-}
-.jumper{
   height:100px;
   width: 100px;
-  border:10px solid red;
-  border-radius:10px;
-  position:absolute;
+}
+img{
+  height: 100px;
+  width: 100px;
+}
+/* .blinker{
+
+}
+.jumper{
+
 }
 .spinner{
-  height: 100px;
-  width: 75px;
-  border-radius:10px;
-  position:absolute;
+
 } */

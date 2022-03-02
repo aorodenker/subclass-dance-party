@@ -1,6 +1,6 @@
 var MakeSpinningDancer = function(top, left, timeBetweenSteps) {
   MakeDancer.call(this, top, left, timeBetweenSteps);
-  this.$node = $('<img src ="Images/Spinny.png" class="spinner">');
+  this.$node = $('<img src ="Images/Spinny.png" class="dancer spinner">');
 };
 
 MakeSpinningDancer.prototype = Object.create(MakeDancer.prototype);
